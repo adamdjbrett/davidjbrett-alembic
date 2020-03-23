@@ -54,6 +54,6 @@ collections:
     title: Posts
     output: true
     description: "My thoughts and ideas"
-    feature_text: |
-      Welcome to my blog
+#    feature_text: |
+#      Welcome to my blog
     feature_image: "/images/unsplash/tomas-robertson-M_duJG81Kv4-unsplash.jpg"
