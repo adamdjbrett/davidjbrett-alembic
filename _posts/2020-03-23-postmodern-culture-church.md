@@ -26,4 +26,4 @@ There is not just one response that the church or Christians should have to post
 If you are interested in learning more about ways the church can respond to and learn from postmodernism consider contacting David J. Brett. He is available to speaking, teaching, and leading workshops, as well as pastoral care and counseling.
 
 
-`Photo by NeONBRAND on Unsplash'
+`Church Photo by NeONBRAND on Unsplash`
