@@ -19,9 +19,9 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://davidbrett.im'
+url: 'https://www.davidbrett.im'
 baseurl: ''
-title: 'Davd J. Brett'
+title: 'David J. Brett'
 description: 'Pastor, Chaplain, & Carpenter'
 permalink: pretty
 logo: "/images/djb.png"
