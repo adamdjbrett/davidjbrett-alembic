@@ -2,7 +2,9 @@
 title: Engaging postmodern culture and the church.
 layout: page
 feature_image: "/images/unsplash/fleur-dQf7RZhMOJU-unsplash.jpg"
-feature_text: <h2 class="whitetext highlighted">David J. Brett</h2>
+feature_text: |
+  ## David J. Brett
+  Pastor, Chaplain, &amp; Carpenter
 ---
-
+#242E28
 Working in Central Florida as a pastor, chaplain, and frequently doing woodworking and Carpenter, David J. Brett embraces ministry as a call to do life together. Ministry is about constructing our lives and our theology. Occasionally constructing a holistic relational and authentic communal life together requires some deconstruction and reconstruction.
