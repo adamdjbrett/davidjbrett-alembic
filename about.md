@@ -6,7 +6,7 @@ David Brett is passionate about sharing life with others and being on the spirit
 
 
 
-## Abbreviated Resume/CV for David Brett
+## Short CV
 ### 2017-Present
 #### Fellowship Pastor @ Village View Community Church
 
